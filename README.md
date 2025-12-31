@@ -1,22 +1,23 @@
-# Hi, I'm Yash 👋
+# Hi 👋, I'm Yash Choudhary
 
 🎓 B.Tech Electronic & Computer Engineering Student  
-🔧 Interests: Embedded Systems, IoT, Networking, Wireless & 5G  
-📊 Also familiar with Salesforce CRM and business tools  
+💡 Passionate about Embedded Systems, IoT, Networking & Smart Technologies  
+🔧 Skills: Netwroking, Salesforce CRM, Embedded Firmware, IoT
+📊 Tools: Cisco Packet Tracer, Salesforce, Microsoft Office
 
-## 🔹 Technical Skills
-- Embedded C, Arduino, ESP32  
-- IoT & Sensor-based Systems  
-- Computer Networking Basics  
-- Wireless Communication Concepts  
-- Salesforce CRM (Basics)  
+---
 
-## 🔹 Projects
-- Vehicle Accident Prevention System  
-- IoT-based Smart Systems  
-- Embedded Sensor Applications  
+## 📂 Projects
+- **IoT-Based Smart RFID Door Lock System** — Published research paper  
+- **Footstep Power Generator** — Energy harvesting embedded project  
+- **Other mini projects** — Embedded control, sensors, automation
 
-## 🔹 Research
-- Published research paper in IJCRT (UGC-approved journal)
+---
 
-📫 Connect with me on LinkedIn: https://www.linkedin.com/in/yashdc/
+## 📫 Let's Connect
+🔗 LinkedIn: https://www.linkedin.com/in/yashdc  
+📧 Email: yashdalaramchoudhary@gmail.com
+
+---
+
+✨ I love building solutions that bridge hardware & software.
